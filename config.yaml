@@ -1,0 +1,16 @@
+staff:
+  server: 10.100.100.171
+  attribute: cn dn samaccountname
+            newline test
+  username: staffadmin
+  password: passwordstaff
+  id: 1
+
+stu:
+  server: 10.100.100.173
+  attribute: cn dn samaccountname
+            newline test1
+            newline2
+  username: studentadmin
+  password: passwordstudent
+  id: 2
